@@ -60,9 +60,8 @@ This application will show a better insight on the company structure, making it 
 ## Links
 [Home](https://github.com/san1718/mc12-Employee_Tracker)
 <br />
-[Deployed]()
+[Video Demo](https://drive.google.com/file/d/1xmy3G-m393A1RZIMYNqe9lKNkEcCkmFS/view?usp=drive_link)
 
 ## Screenshots
-<img width="1000" alt="Tables" src="">
-<img width="1000" alt="" src="">
-<img width="1000" alt="" src="">
+<img width="1000" alt="DemoVid" src="https://github.com/san1718/mc12-Employee_Tracker/blob/main/images/DemoVid12.gif">
+<img width="1000" alt="Tables" src="https://github.com/san1718/mc12-Employee_Tracker/blob/main/images/Table.png">
