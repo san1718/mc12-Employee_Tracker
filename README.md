@@ -36,6 +36,7 @@ The **Employee Tracker** application allows business owners and managers to effi
 - **Console Interface**: The app runs as a CLI application, displaying options in the terminal.
 
 ## Installation / Usage
+For local:
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/san1718/mc12-Employee_Tracker
